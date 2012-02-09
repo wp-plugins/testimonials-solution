@@ -13,7 +13,7 @@ Testimonials Solution is a WordPress plugin which is inspired from a Popular Tes
 
 display testimonials for your blog, product or service. It can be used to build your portfolio or to encourage readers to subscribe / buy your products.
 
-This is without doubt the best testimonial plugin for WordPress – it’s simple but powerful and flexible.
+This is without doubt the best testimonial plugin for WordPress, it is simple but powerful and flexible.
 
 = ADD AND EDIT TESTIMONIALS EASILY =
 
@@ -42,10 +42,10 @@ testimonials to appear.
 Yet  to Come!!!
 
 == Screenshots ==
-1. Adding New Testimonial `screenshot-1.jpg`
-2. Manage Your Testimonials `screenshot-2.jpg`
-3. Settings `screenshot-3.png`
-4. Testimonial Widget `screenshot-4.png`
+1. Adding New Testimonial `/tags/0.3/screenshot-1.jpg`
+2. Manage Your Testimonials `/tags/0.3/screenshot-2.jpg`
+3. Settings `/tags/0.3/screenshot-3.png`
+4. Testimonial Widget `/tags/0.3/screenshot-4.png`
 == Changelog ==
 
 = 0.3 =
