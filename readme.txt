@@ -13,7 +13,7 @@ Testimonials Solution is a WordPress plugin which is inspired from a Popular Tes
 
 display testimonials for your blog, product or service. It can be used to build your portfolio or to encourage readers to subscribe / buy your products.
 
-This is without doubt the best testimonial plugin for WordPress – it’s simple but powerful and flexible.
+This is without doubt the best testimonial plugin for WordPress, it is simple but powerful and flexible.
 
 = ADD AND EDIT TESTIMONIALS EASILY =
 
