@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Moinahemad Mansuri
+Contributors: Husker Infotech
 Donate link: http://www.huskerinfotech.com
 Tags: Testimonials, Testimonials Manager, Testimonials Solution
 Requires at least: 2.0.2
